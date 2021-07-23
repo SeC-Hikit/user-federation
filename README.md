@@ -18,3 +18,4 @@ connect
 /subsystem=keycloak-server/theme=defaults/:write-attribute(name=cacheThemes,value=false)
 reload
 ```
+else, you will see the same theme being cached, and updated only on reboot.
