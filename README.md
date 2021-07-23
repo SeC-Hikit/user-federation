@@ -1,7 +1,7 @@
 # user-federation
 User Federation scripts
 
-# Login Page
+# Login Page theme
 
 ## Deploy
 ### On Docker
