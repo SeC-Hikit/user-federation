@@ -1,5 +1,5 @@
 # user-federation
-User Federation scripts
+User Federation scripts to customize the keycloak instance.
 
 # Login Page theme
 
